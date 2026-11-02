@@ -1,6 +1,49 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-inspired-by-skyjo-codex-dot",
   "playUrl": "https://intrepion.github.io/kata-inspired-by-skyjo-codex-dot/",
-  "screenshots": []
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/ci-20261102-01.jpg",
+      "sha256": "f0c464e9d99fbc1f90ad713fd7051584944a0439537d896766308a8ae9862fcd",
+      "alt": "Low Tide gameplay, view 1",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
+        "sourceSha256": "d304e19e0b2187d844e33771551db59311905569061f1c02dbb7b1e89832778e",
+        "captureCommit": "7a6cf7204a414f088958bc9f241e3255af6fc1fa",
+        "workflowRunId": "41393895979",
+        "inputHashes": {
+          "index.html": "08cd307af6d53336be4d601b422430a37fd8fe73805256d0bbd9788923dad4e3",
+          "style.css": "c9fc3662997b810a936cac839cfe0cafd276017175835449f5af4d9d08ed0862",
+          "app.js": "4f2dfc082f6c11c9163ce109bc5a7242568163f4543a3faa836027c4e0f13506",
+          "game.js": "24e47074f6ef393ace33e0b0d5cd252c2c729ab514a66bda824593e0f4e4c59b"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "0a7efefa255803484cf946235419edeb0e4e5b135ed00fa4297a7a16b318ed51"
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-02.jpg",
+      "sha256": "5fd5c629d805c31197d1f3352a7f88731630c1f57e0329356180d01658cb185a",
+      "alt": "Low Tide gameplay, view 2",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
+        "sourceSha256": "9f36897ac2ad683e419d9093bc05daef03d062488ef928c4dcd9b7e292a038ed",
+        "captureCommit": "7a6cf7204a414f088958bc9f241e3255af6fc1fa",
+        "workflowRunId": "41393895979",
+        "inputHashes": {
+          "index.html": "08cd307af6d53336be4d601b422430a37fd8fe73805256d0bbd9788923dad4e3",
+          "style.css": "c9fc3662997b810a936cac839cfe0cafd276017175835449f5af4d9d08ed0862",
+          "app.js": "4f2dfc082f6c11c9163ce109bc5a7242568163f4543a3faa836027c4e0f13506",
+          "game.js": "24e47074f6ef393ace33e0b0d5cd252c2c729ab514a66bda824593e0f4e4c59b"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "0a7efefa255803484cf946235419edeb0e4e5b135ed00fa4297a7a16b318ed51"
+      }
+    }
+  ]
 }
